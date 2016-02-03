@@ -1,0 +1,1 @@
+Script bash semi-automatique d'installation de ispconfig sur debian 6
